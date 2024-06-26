@@ -2,13 +2,13 @@
 Télécom Paris - IGR205 - Pattern Synthesis project
 
 Students:
-Tanguy SCHMIDTLIN
-Haicheng WANG
-Romain DAVID
+Tanguy SCHMIDTLIN,
+Haicheng WANG,
+Romain DAVID,
 Enzo GELAS
 
 Supervisors:
-Pooran MEMARI
+Pooran MEMARI,
 Amal Dev PARAKKAT
 
 Subject:
