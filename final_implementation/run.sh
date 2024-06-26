@@ -1,0 +1,2 @@
+python ./code/blue_noise_line_stippling.py ./../images_test/shirt.png --output_name outputshirt_line --npoints 40000 --length 0.015  #--radius 0.002 --line_width 0.3 --length 0.01 
+# python ./code/blue_noise_point_stippling.py ./../images_test/pot-plant.jpg --output_name outputplant_stipple --npoints 40000

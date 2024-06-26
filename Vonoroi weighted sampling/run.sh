@@ -1,1 +1,0 @@
-python ./code/line.py ./data/boots.jpg --n_point 40000 --n_iter 30

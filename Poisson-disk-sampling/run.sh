@@ -1,2 +1,0 @@
-python main_line.py ./test_image/shirt.png --output_name outputshirt_line --npoints 40000 --length 0.015  #--radius 0.002 --line_width 0.3 --length 0.01 
-# python main_stipple.py ./test_image/pot-plant.jpg --output_name outputplant_stipple --npoints 40000
