@@ -19,7 +19,9 @@ Télécom Paris - IGR205 - Pattern Synthesis project
 The final implementation can be found [here](./final_implementation) and contains code for line segment pattern synthesis on a blue noise stippling support (using Poisson disk sampling). It can be run using the [run.sh](./final_implementation/run.sh) or through the command line ([source](./final_implementation/code/blue_noise_line_stippling.py)). [Code](./final_implementation/code/blue_noise_point_stippling.py) for classical point stippling is available too.
 
 ### Explorations
-Other explorations can be found [here](./explorations), either as source files or Jupyter Notebooks. The following approaches have been explored:
+Other explorations can be found [here](./explorations), either as source files or Jupyter Notebooks.
+
+Notable approaches:
 - [Line segment pattern synthesis on a weighted Voronoi stippling support](./explorations/voronoi_weighted_sampling/code/voronoi_line_stippling.py) (with [code](./explorations/voronoi_weighted_sampling/code/voronoi_point_stippling.py) for classical point stippling too),
 - [Segmentation](./explorations/segmentation/Segmentation.ipynb) postprocessing and evaluation,
 - [Noise generation](./explorations/noise_generation/Generation.ipynb) inspired by the [Patternshop](https://xchhuang.github.io/patternshop/index.html) article,
